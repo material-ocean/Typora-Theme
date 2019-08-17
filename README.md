@@ -1,5 +1,3 @@
-# Material Ocean For Typora
-
 <img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean-Typora-Theme/master/2019-08-17_18-12.png">
 
 ### Features:
